@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('1125811332:AAGMQFHCEHV1Lswxr7aodPbgpyhVkQXVP6k')
+bot = telebot.TeleBot('6174644288:AAHRP-Rh9YqSWpQn4qnGFMWnpiyTaMhaJqs')
 
 
 @bot.message_handler(commands=['start'])
